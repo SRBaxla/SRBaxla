@@ -44,10 +44,6 @@ I'm passionate about building intelligent and impactful solutions.
   *External gold demand and price forecasting using open-source Meta Prophet model*  
   Technologies: Jupyter Notebook
 
-- **SaitMediator**  
-  *College project*  
-  Technologies: Java
-
 - **Dresto_native**  
   *Native mobile application*  
   Technologies: TypeScript
