@@ -28,7 +28,7 @@ I'm passionate about building intelligent and impactful solutions.
 - **Total Commits:**  
   ![GitHub Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SRBaxla&theme=github_dark)
 - **Contribution Graph:**  
-  ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SRBaxla&theme=github-dark)
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRBaxla&theme=github-dark)
 
 *For more detailed stats, you can use tools like [`git-commit-stats`](https://github.com/alex289/git-commit-stats) or CLI commands to analyze your repositories further[4][7].*
 
