@@ -58,7 +58,7 @@ I'm passionate about building intelligent and impactful solutions.
 
 - **Email:** [sudeepbaxla99@gmail.com](mailto:sudeepbaxla99@gmail.com)
 - **Telegram:** [@SRBaxla](https://t.me/SRBaxla)
-- **Instagram:** [@SRBaxla](https://instagram.com/SRBaxla)
+- **Instagram:** [@SRBaxla](https://www.instagram.com/sudeeprichardbaxla/)
 
 ---
 
