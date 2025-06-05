@@ -17,8 +17,21 @@ I'm passionate about building intelligent and impactful solutions.
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&fontSize=16&lineCount=3&gap=10&theme=github_dark&languages=Python,Java,TypeScript,JavaScript,Jupyter,HTML,CSS,Docker)  
-*Want a custom card? [Create yours here.](https://github-readme-tech-stack.vercel.app)*[1]
+<!-- Dynamic tech stack card -->
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&fontSize=16&lineCount=3&gap=10&theme=github_dark&languages=Python,Java,TypeScript,JavaScript,Jupyter,HTML,CSS,Docker)
+
+<!-- Individual badges for more detail and accessibility -->
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
 
 ---
 
