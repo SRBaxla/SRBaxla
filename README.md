@@ -15,15 +15,6 @@ I'm passionate about building intelligent and impactful solutions.
 
 ---
 
-## 🛠️ Tech Stack
-
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&theme=github_dark&lineCount=2&line1=python,java,typescript,javascript&line2=jupyter,html,css,docker)](https://github-readme-tech-stack.vercel.app)
-
-
-
-
----
-
 ## 📊 GitHub Stats & Activity
 
 ![SRBaxla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRBaxla&show_icons=true&theme=github_dark)
