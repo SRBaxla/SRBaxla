@@ -30,8 +30,6 @@ I'm passionate about building intelligent and impactful solutions.
 - **Contribution Graph:**  
   ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRBaxla&theme=github-dark)
 
-*For more detailed stats, you can use tools like [`git-commit-stats`](https://github.com/alex289/git-commit-stats) or CLI commands to analyze your repositories further[4][7].*
-
 ---
 
 ## 🏆 Featured Projects
