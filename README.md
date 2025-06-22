@@ -32,25 +32,6 @@ I'm passionate about building intelligent and impactful solutions.
 
 ---
 
-## 🏆 Featured Projects
-
-- **Cupid's Arrow**  
-  *AI matchmaking project*  
-  Technologies: Jupyter Notebook
-
-- **Gold Forecasting**  
-  *External gold demand and price forecasting using open-source Meta Prophet model*  
-  Technologies: Jupyter Notebook
-
-- **Dresto_native**  
-  *Native mobile application*  
-  Technologies: TypeScript
-
-- **sentry_docker_hub**  
-  *Dockerized Sentry deployment*  
-  Technologies: Jupyter Notebook
-
----
 
 ## 📫 How to Reach Me
 
