@@ -19,7 +19,7 @@ I'm passionate about building intelligent and impactful solutions.
 
 ![SRBaxla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRBaxla&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRBaxla&layout=compact&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=SRBaxla&theme=github-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SRBaxla&theme=github-dark)](https://git.io/streak-stats)
 
 ---
 
