@@ -25,15 +25,21 @@ I build intelligent, automated digital experiences that bridge the gap between c
 
 ## 📊 GitHub Stats & Activity
 
-![SRBaxla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRBaxla&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRBaxla&layout=compact&theme=github_dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRBaxla&show_icons=true&theme=github_dark&hide_border=true" alt="SRBaxla's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRBaxla&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
 ## 📈 Contribution Dashboard
 
-- **Productive Time:** ![GitHub Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SRBaxla&theme=github_dark)
-- **Activity Graph:** ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRBaxla&theme=github-dark)
+- **Productive Time:** <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SRBaxla&theme=github_dark" alt="GitHub Commit Activity" />
+  
+- **Activity Graph:** <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRBaxla&theme=github-dark" alt="GitHub Contribution Graph" />
 
 ---
 
