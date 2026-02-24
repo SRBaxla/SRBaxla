@@ -26,9 +26,9 @@ I build intelligent, automated digital experiences that bridge the gap between c
 ## 📊 GitHub Stats & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRBaxla&show_icons=true&theme=github_dark&hide_border=true" alt="SRBaxla's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SRBaxla&show_icons=true&theme=github_dark&hide_border=true&cache_id=1" alt="SRBaxla Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRBaxla&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRBaxla&layout=compact&theme=github_dark&hide_border=true&cache_id=1" alt="SRBaxla Langs" />
 </p>
 
 ---
