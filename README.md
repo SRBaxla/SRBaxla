@@ -47,6 +47,6 @@ I build intelligent, automated digital experiences that bridge the gap between c
 
 - 📧 **Email:** [sudeepbaxla99@gmail.com](mailto:sudeepbaxla99@gmail.com)
 - 📸 **Instagram:** [@SRBaxla](https://www.instagram.com/sudeeprichardbaxla/)
-- 🌐 **Project:** [Talos.design](https://github.com/SRBaxla/Talos-design)
+- 🌐 **Project:** [Talos.design](https://srbaxla.github.io/Talos.design/)
 
 > “Always learning, always building. Let’s connect and collaborate!”
